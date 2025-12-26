@@ -61,4 +61,8 @@ This project exists because of your time, effort, and curiosity.
 - **GitHub:** https://github.com/thenix09
 - **About:** First-year student at IIIT Allahabad, interested in software engineering and open-source contributions.
 
+- **Name:** Raihanullah Shamsi 
+  **GitHub:** https://github.com/Rehan959  
+  **About:** Second-year BCA (AI & ML) student skilled in the full-stack (React, Next.js, Express). Eager to apply this knowledge to real-world projects
+
 
