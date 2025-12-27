@@ -85,3 +85,6 @@ This project exists because of your time, effort, and curiosity.
   **GitHub:** https://github.com/Krishna200608  
   **About:** 3rd Year student at IIIT Allahabad eager to learn full-stack development and open-source contributions.
 
+- **Name:** Vrajkumar Shah
+- **GitHub:** https://github.com/vraj826
+- **About:** 1st Year CSE student at Dharmsinh Desai University, Nadiad. Here to learn about Open-Source Contributions.
